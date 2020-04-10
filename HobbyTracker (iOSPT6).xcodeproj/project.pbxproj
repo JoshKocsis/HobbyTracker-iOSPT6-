@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		5150DCD42440055500FB064C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5150DCD32440055500FB064C /* AppDelegate.swift */; };
 		5150DCD62440055500FB064C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5150DCD52440055500FB064C /* SceneDelegate.swift */; };
-		5150DCD82440055500FB064C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5150DCD72440055500FB064C /* ViewController.swift */; };
+		5150DCD82440055500FB064C /* FriendsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5150DCD72440055500FB064C /* FriendsTableViewController.swift */; };
 		5150DCDB2440055500FB064C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5150DCD92440055500FB064C /* Main.storyboard */; };
 		5150DCDD2440055700FB064C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5150DCDC2440055700FB064C /* Assets.xcassets */; };
 		5150DCE02440055700FB064C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5150DCDE2440055700FB064C /* LaunchScreen.storyboard */; };
@@ -19,7 +19,7 @@
 		5150DCD02440055500FB064C /* HobbyTracker (iOSPT6).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HobbyTracker (iOSPT6).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5150DCD32440055500FB064C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5150DCD52440055500FB064C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		5150DCD72440055500FB064C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		5150DCD72440055500FB064C /* FriendsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsTableViewController.swift; sourceTree = "<group>"; };
 		5150DCDA2440055500FB064C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5150DCDC2440055700FB064C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5150DCDF2440055700FB064C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -58,7 +58,7 @@
 			children = (
 				5150DCD32440055500FB064C /* AppDelegate.swift */,
 				5150DCD52440055500FB064C /* SceneDelegate.swift */,
-				5150DCD72440055500FB064C /* ViewController.swift */,
+				5150DCD72440055500FB064C /* FriendsTableViewController.swift */,
 				5150DCD92440055500FB064C /* Main.storyboard */,
 				5150DCDC2440055700FB064C /* Assets.xcassets */,
 				5150DCDE2440055700FB064C /* LaunchScreen.storyboard */,
@@ -138,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5150DCD82440055500FB064C /* ViewController.swift in Sources */,
+				5150DCD82440055500FB064C /* FriendsTableViewController.swift in Sources */,
 				5150DCD42440055500FB064C /* AppDelegate.swift in Sources */,
 				5150DCD62440055500FB064C /* SceneDelegate.swift in Sources */,
 			);
